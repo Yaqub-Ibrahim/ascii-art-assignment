@@ -1,30 +1,28 @@
 /**
  * <ascii-art-assignment>
- * by <Yaqub Ibrahim>
+ * by Yaqub Ibrahim
  * 
- * <My name in ascii art>
+ * My name in ascii art
  * 
  */
- 
- void setup() {
-println("Y     Y        A      QQQQ      U   U      BBBB");
-println(" Y   Y        A A     Q  Q      U   U      B   B");
-println("   Y         AAAAA    Q  Q      U   U      B   B");
-println("   Y         A   A    Q QQ      U   U      BBBBB");
-println("   Y         A   A    Q  QQ     U   U      B   B");
-println("   Y         A   A    QQQQ Q    UUUUU      BBBBB");
-println("");
-println("     _O_        _____         _<>_          ___");
-println("   /     \\     |     |      /      \\      /  _  \\");
-println("  |==/=\\==|    |[/_\\]|     |==\\==/==|    |  / \\  |");
-println("  |  O O  |    / O O \\     |   ><   |    |  |\"|  |");
-println("   \\  V  /    /\\  -  /\\  ,-\\   ()   /-.   \\  X  /");
-println("   /`---'\\     /`---'\\   V( `-====-' )V   /`---'\\");
-println("   O'_:_`O     O'M|M`O   (_____:|_____)   O'_|_`O");
-println("    -- --       -- --      ----  ----      -- --");
 
+void setup() {
+  println("Y     Y        A      QQQQ      U   U      BBBB");
+  println(" Y   Y        A A     Q  Q      U   U      B   B");
+  println("   Y         AAAAA    Q  Q      U   U      B   B");
+  println("   Y         A   A    Q QQ      U   U      BBBBB");
+  println("   Y         A   A    Q  QQ     U   U      B   B");
+  println("   Y         A   A    QQQQ Q    UUUUU      BBBBB");
+  println("");
+  println("     _O_        _____         _<>_          ___");
+  println("   /     \\     |     |      /      \\      /  _  \\");
+  println("  |==/=\\==|    |[/_\\]|     |==\\==/==|    |  / \\  |");
+  println("  |  O O  |    / O O \\     |   ><   |    |  |\"|  |");
+  println("   \\  V  /    /\\  -  /\\  ,-\\   ()   /-.   \\  X  /");
+  println("   /`---'\\     /`---'\\   V( `-====-' )V   /`---'\\");
+  println("   O'_:_`O     O'M|M`O   (_____:|_____)   O'_|_`O");
+  println("    -- --       -- --      ----  ----      -- --");
 }
 
 void draw() {
-
 }
